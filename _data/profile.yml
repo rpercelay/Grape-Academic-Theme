@@ -10,7 +10,7 @@ interests: # Remove for hiding the interests section
   - Cooking
   - Boxing
 skills: # Remove for hiding the skills section
-  - skill: HTML5 & CSS
+  - skill: Python, Java, HTML5, CSS, Jekyll?
     value: 85  # Percent value
 social:
   email: reedpercelay@gmail.com # Full email address, e.g. "sample@google.com"
