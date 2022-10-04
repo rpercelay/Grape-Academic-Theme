@@ -35,8 +35,8 @@
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url:  # Full URL
-    image: # path: assets/project/
+    image: /assets/img/resume.png
     date: 06/2019 &ndash; Developing
-    title: Dummy project
-    summary: This is a Dummy
-    description:  
+    title: Resume
+    summary: This is my resume!
+    description: Take a look at my resume here!
